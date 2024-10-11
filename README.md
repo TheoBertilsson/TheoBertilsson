@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on PennyWise2.0<br><br>🌱 I’m learning Sveltekit & Firebase<br><br>👨‍💻 All of my projects are available at https://github.com/TheoBertilsson?tab=repositories<br><br>📫 How to reach me theo.uab@hotmail.com<br><br>⚡ Fun fact A master at one handed coding!
 
 
