@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Threlte F1 game<br>🌱 I’m currently learning ThreeJS & Svelte games<br>💬 Ask me about Svelte!
+🔭 I’m currently working on Budget Hero a gamified budget app<br>🌱 I’m currently sharpening my skills in React<br>💬 Ask me about anything!
 
 
 ## 🌐 Socials:
